@@ -1,0 +1,5 @@
+Le client envoie au serveur : Le numéro de la requete -> le serveur envoie une réponse en guise de "bien reçu"
+Ensuite sur le client envoie au serveur la phrase complete de l'utilisateur contenant tous les mots clefs
+Le serveur fait la séparation des mots clefs dans la phrase
+
+On affiche tous les mots séparement ce sera deja bien pour la phase 2.

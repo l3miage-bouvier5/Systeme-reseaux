@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "types.h": "c",
+        "serveur.h": "c",
+        "client.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "comparaison.h": "c",
+        "socket.h": "c"
+    }
+}
